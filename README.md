@@ -104,6 +104,7 @@ printf("\n"); // New line after output
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/73524aa4-9a8f-44fe-a866-d11162ae2f3f)
+![image](https://github.com/user-attachments/assets/252c662e-54e9-4c8d-b5d8-bcc4547e3fe4)
+
 ## RESULT
 The program has successfully exexcuted
